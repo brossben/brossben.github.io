@@ -1,0 +1,38 @@
+body {
+	background-color: #EBE1B9;
+} header { 
+	background-color: #A38C58;
+	padding-top: 10px;
+	margin-left: -1%;
+	margin-right: -3%;
+	margin-top: -10px;
+	padding-bottom: 1px;
+} footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #A38C58;
+
+} h1 {
+	color: #27292B;
+	margin-top: 0%;
+	margin-left: 3%;
+	margin-bottom: -15px;
+} h2 {
+	color: #27292B;
+	margin-left: 3%;
+} h3 {
+	color: #27292B;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: -10px;
+} li {
+	color: #464C4F;
+	margin-left: 5%;
+	margin-right: 5%;
+} p {
+	color: #27292B;
+	margin-left: 5%;
+	margin-right: 5%;
+
